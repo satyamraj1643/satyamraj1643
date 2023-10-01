@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+[![An image of @satyamraj1532005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamraj1532005)](https://holopin.io/@satyamraj1532005)
+
 <!--
 **satyamraj1643/satyamraj1643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
