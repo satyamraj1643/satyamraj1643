@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **satyamraj1643@gmail.com**
 
-- 📄 Know about my experiences [in my Resume](https://drive.google.com/file/d/1u9JQs-fNJZxBzjw07JADJL4yWcZV9PgL/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1Yick3tiZoAPlDTq6p-WXOzfYYKtNlchy/view?usp=sharing)
 
 - ⚡ Fun fact **Yeah, I am funny sometimes, can make you laugh :)**
 
