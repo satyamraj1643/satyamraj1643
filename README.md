@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
-<h3 align="center">Engineer.</h3>
+<h3 align="center">Welcome :) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamraj1643&label=Profile%20views&color=0e75b6&style=flat" alt="satyamraj1643" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamraj1643" alt="satyamraj1643" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **things**
 
-- 👯 I’m looking to collaborate on **Software Engineering**
+- 👯 I’m looking to collaborate on **building impactful things**
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyamraj1643](https://github.com/satyamraj1643)
 
-- 📝 I regularly write articles on [https://medium.com/@satyamraj1643](https://medium.com/@satyamraj1643)
 
-- 💬 Ask me about **React,JavaScript, Kotlin, C#, C++, OOPs, Life.. :)**
+- 💬 Ask me about **ML, Development, AI , life!**
 
 - 📫 How to reach me **satyamraj1643@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1Yick3tiZoAPlDTq6p-WXOzfYYKtNlchy/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/11x3Sagpk8KigKuYbhjDIbIoOp2_mM32A/view?usp=sharing)
 
-- ⚡ Fun fact **Yeah, I am funny sometimes, can make you laugh :)**
+- ⚡ Fun fact **Yeah, I am unfunnily funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
