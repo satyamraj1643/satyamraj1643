@@ -1,6 +1,5 @@
 # Satyam Raj
 
-**Full-Stack Developer | ML Enthusiast | Building at the intersection of AI and Web**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=satyamraj1643&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/satyamraj1643)
 
