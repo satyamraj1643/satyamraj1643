@@ -14,12 +14,6 @@ An AI-assisted journal for reflection, mood tracking, semantic search, and usefu
 
 [Live product](https://pine.brink.co.in) | [Frontend](https://github.com/satyamraj1643/pine) | [Backend](https://github.com/satyamraj1643/pine_backend_v2)
 
-### Janus
-
-A distributed job admission and rate-limiting service built with Go, PostgreSQL, and Redis. It handles multi-level quotas, atomic batch admission, idempotency, and live policy updates.
-
-[Core service](https://github.com/satyamraj1643/janus) | [Desktop client](https://github.com/satyamraj1643/janus-frontend)
-
 ### Portfolio
 
 A focused record of my product experience, engineering work, and selected projects.
