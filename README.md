@@ -2,7 +2,7 @@
 
 **Associate Product Manager | Engineer**
 
-I work at the intersection of product thinking and engineering, turning customer problems into scoped workflows, measurable outcomes, and reliable software. I am a Computer Science graduate from IIIT Bhagalpur and am currently open to Associate Product Manager and AI product roles.
+I build AI products and the systems behind them, from discovery and scoping through delivery and implementation. Computer Science graduate from IIIT Bhagalpur, currently open to Associate Product Manager and AI product roles.
 
 [Portfolio](https://satyamraj1643.com) | [LinkedIn](https://www.linkedin.com/in/satyamraj1643/) | [Email](mailto:satyamraj1643@gmail.com)
 
